@@ -15,5 +15,11 @@ La empresa AluraGeek necesita llegar a más clientes y aumentar su nivel de vent
 
 
 -----
+# 💡 Administrate products
+data to Login in administrating  of products
+email: test@alura.com
+password: alura123
+
+
 Link a website
-https://github.com/WILMERFORIGUA/Ecommerce-alurageek__G4
+https://wilmerforigua.github.io/Ecommerce-alurageek__G4/
