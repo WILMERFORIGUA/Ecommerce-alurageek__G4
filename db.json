@@ -1,0 +1,107 @@
+{
+  "products": [
+    {
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0ag1",
+      "name": "Mario Kart 8 Deluxe",
+      "category": "Juegos",
+      "price": "US 49",
+      "url": "../img/game-1.jpg",
+      "description": "Tribute to Mario Bros !"
+    },
+    {
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0ag4",
+      "name": "Super Smash Bros.",
+      "category": "Juegos",
+      "price": "US 49",
+      "url": "./img/game-4.jpg",
+      "description": "Tribute to Mario Bros !"
+    },
+    {
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0ag5",
+      "name": "Mario Odyssey",
+      "category": "Juegos",
+      "price": "US 49",
+      "url": "./img/game-5.jpg",
+      "description": "Tribute to Mario Bros !"
+    },
+    {
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0ag6",
+      "name": "Luigi’s Mansion™ 3",
+      "category": "Juegos",
+      "price": "US 49",
+      "url": "./img/game-6.jpg",
+      "description": "Tribute to Mario Bros !"
+    },
+    {
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0ac3",
+      "name": "Nintendo Switch - Smash Bros",
+      "category": "Consolas",
+      "price": "US 349",
+      "url": "./img/consolas-3.png",
+      "description": "Tribute to Mario Bros !"
+    },
+    {
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0ac4",
+      "name": "Nintendo Switch - Pokémon",
+      "category": "Consolas",
+      "price": "US 349",
+      "url": "./img/consolas-4.png",
+      "description": "Tribute to Mario Bros !"
+    },
+    {
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0ac6",
+      "name": "Nintendo Switch OLED",
+      "category": "Consolas",
+      "price": "US 349",
+      "url": "./img/consolas-6.png",
+      "description": "Tribute to Mario Bros !"
+    },
+    {
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0ac8",
+      "name": "Nintendo Switch Lite - Pokémon",
+      "category": "Consolas",
+      "price": "US 349",
+      "url": "./img/consolas-8.png",
+      "description": "Tribute to Mario Bros !"
+    },
+    {
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0aa1",
+      "name": "Mario Bros.",
+      "category": "Amiibo",
+      "price": "US 19",
+      "url": "./img/amiibo-1.png",
+      "description": "Tribute to Mario Bros !"
+    },
+    {
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0aa2",
+      "name": "Peach",
+      "category": "Amiibo",
+      "price": "US 19",
+      "url": "./img/amiibo-2.png",
+      "description": "Tribute to Mario Bros !"
+    },
+    {
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0aa3",
+      "name": "Browser",
+      "category": "Amiibo",
+      "price": "US 19",
+      "url": "./img/amiibo-3.png",
+      "description": "Tribute to Mario Bros !"
+    },
+    {
+      "name": "Yoshi",
+      "category": "Amiibo",
+      "url": "./img/amiibo-7.png",
+      "price": "US 19",
+      "description": "Tribute to Mario Bros !"
+    },
+    {
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0aa8",
+      "name": "Toad",
+      "category": "Amiibo",
+      "price": "US 19",
+      "url": "./img/amiibo-8.png",
+      "description": "Tribute to Mario Bros !"
+    }
+  ]
+}
